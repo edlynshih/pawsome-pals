@@ -3,6 +3,9 @@
 Swipe page user interface
 !["swiping gif"](https://github.com/edlynshih/pawsome-pals/blob/main/docs/swipe.gif)
 
+Inbox page user interface
+!["message UI"](https://github.com/edlynshih/pawsome-pals/blob/main/docs/messageUI.png)
+
 Messaging feature
 !["messaging feature gif"](https://github.com/edlynshih/pawsome-pals/blob/main/docs/messaging.gif)
 
@@ -15,8 +18,6 @@ This page displays all the pending matches with the current pet
 Confirmation message before deleting matches
 !["delete popup"](https://github.com/edlynshih/pawsome-pals/blob/main/docs/deletePopup.png)
 
-Inbox page user interface
-!["message UI"](https://github.com/edlynshih/pawsome-pals/blob/main/docs/messageUI.png)
 
 This page displays all of your pets
 !["your pets profiles"](https://github.com/edlynshih/pawsome-pals/blob/main/docs/yourPetsProfile.png)
