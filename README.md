@@ -1,16 +1,24 @@
 # Final Product
+
+Swipe page user interface
 !["swiping gif"](https://github.com/edlynshih/pawsome-pals/blob/main/docs/swipe.gif)
 
-!["pet profile"](https://github.com/edlynshih/pawsome-pals/commit/a54d3040620c759bf38faffa4dfa2f1689e6ced8#diff-8140fa6b4d3459d78399a7086d9a1b8cb0c6a8d6b9efef550ed5dad41052a6fe)
+Messaging feature
+!["messaging feature gif"](https://github.com/edlynshih/pawsome-pals/blob/main/docs/messaging.gif)
 
+Click on any pet, and their profile will display before you consider matching with them! 
 !["pending matches"](https://github.com/edlynshih/pawsome-pals/blob/main/docs/petProfile.png)
 
+This page displays all the pending matches with the current pet
 !["pending matches"](https://github.com/edlynshih/pawsome-pals/blob/main/docs/pendingMatches.png)
 
+Confirmation message before deleting matches
 !["delete popup"](https://github.com/edlynshih/pawsome-pals/blob/main/docs/deletePopup.png)
 
+Inbox page user interface
 !["message UI"](https://github.com/edlynshih/pawsome-pals/blob/main/docs/messageUI.png)
 
+This page displays all of your pets
 !["your pets profiles"](https://github.com/edlynshih/pawsome-pals/blob/main/docs/yourPetsProfile.png)
 
 # Getting Started
