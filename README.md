@@ -1,3 +1,7 @@
+# Final Product
+!["swiping gif"](https://github.com/edlynshih/pawsome-pals/blob/main/docs/swipe.gif)
+
+
 # Getting Started
 
 ## Set up
